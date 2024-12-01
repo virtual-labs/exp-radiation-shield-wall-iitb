@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A horizontal venturimeter inlet & throat diameter are 27 cm and 14 cm respectively. The hm = 21 cm. The manometer fluid is mercury. Take cd = 0.98. water is flowing through pipe find discharge. Find the discharge. Refer figure from the simulator.",
+      "qid": 1,
+      "option_a": "103.44 l/s",
+      "option_b": "112.85 l/s",
+      "option_c": "120.94 l/s",
+      "option_d": "110.43 l/s",
+      "correct_option": "b"
+   },
+   {
+      "question": "A horizontal venturimeter inlet & throat diameter are 30 cm and 13 cm respectively. The hm = 22 cm. The manometer fluid is mercury. Take cd = 0.98. water is flowing through pipe find discharge. Find the discharge. Refer figure from the simulator.",
+      "qid": 2,
+      "option_a": "97.66 l/s",
+      "option_b": "101.56 l/s",
+      "option_c": "93.47 l/s",
+      "option_d": "108.98 l/s",
+      "correct_option": "a"
+   }
+]
