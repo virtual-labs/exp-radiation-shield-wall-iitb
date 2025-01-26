@@ -11,7 +11,7 @@
 
    {
        "question": "Find the heat transfer per unit area due to radiation between two infinite long parallel planes. The first plane has emissivity 0.4 and is maintained at 245<sup>o</sup>C. The emissivity of the second plane is 0.2 and maintained at 27<sup>o</sup>C. A radiation shield having emissivity of 0.5 is introduced between given two planes. Find the steady state temperature of the shield. Refer the image in simulation. <br> $$ T_3 = [\\frac{- \\frac{Q}{A}_s \\frac{1}{\\epsilon_1}+\\frac{1}{\\epsilon_3} - 1}{\\sigma}{T_1^4}] $$",
-       "qid": 1,
+       "qid": 2,
        "option_a": "469.178 <sup>o</sup>K",
        "option_b": "569.178 <sup>o</sup>K",
        "option_c": "270.182 <sup>o</sup>K",
