@@ -1,0 +1,30 @@
+[
+
+    {
+        "question": "Pressure head is given by",
+        "qid": 1,
+        "option_a": "$$ \\frac{p}{\\rho \\times g} + z $$",
+        "option_b": "$$ \\frac{p}{\\rho \\times g} + \\frac{v^2}{2 g} $$",
+        "option_c": "$$ \\frac{p}{\\rho \\times g} $$",
+        "option_d": "$$ z $$",
+        "correct_option": "c"
+    },
+    {
+        "question": "Velocity head is given by",
+        "qid": 2,
+        "option_a": "$$ \\frac{v^2}{2g} $$",
+        "option_b": "$$ \\frac{v^2}{2} $$",
+        "option_c": "$$ \\frac{v^2}{g} $$",  
+        "option_d": "$$ \\frac{v^2}{2g} + z $$",
+        "correct_option": "a"
+    },
+    {
+        "question": "The direction of the flow is dictated by",
+        "qid": 3,
+        "option_a": "Pressure head",
+        "option_b": "Velocity head",
+        "option_c": "Total head",
+        "option_d": "Potential head",
+        "correct_option": "c"
+    }
+]
