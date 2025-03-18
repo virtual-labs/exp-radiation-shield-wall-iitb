@@ -1,30 +1,57 @@
 [
 
     {
-        "question": "Pressure head is given by",
+        "question": "For block surface equivalent radiative resistance is given by",
         "qid": 1,
-        "option_a": "$$ \\frac{p}{\\rho \\times g} + z $$",
-        "option_b": "$$ \\frac{p}{\\rho \\times g} + \\frac{v^2}{2 g} $$",
-        "option_c": "$$ \\frac{p}{\\rho \\times g} $$",
-        "option_d": "$$ z $$",
-        "correct_option": "c"
+        "option_a": "$$ R = \\frac{1}{A_2F_{12}} $$",
+        "option_b": "$$ R = -\\frac{1}{A_1F_{12}} $$",
+        "option_c": "$$ R = -\\frac{1}{A_2F_{12}} $$",
+        "option_d": "$$ R = \\frac{1}{A_1F_{12}} $$",
+        "correct_option": "d"
     },
     {
-        "question": "Velocity head is given by",
+        "question": "For grey surface equivalent radiative resistance is given by",
         "qid": 2,
-        "option_a": "$$ \\frac{v^2}{2g} $$",
-        "option_b": "$$ \\frac{v^2}{2} $$",
-        "option_c": "$$ \\frac{v^2}{g} $$",  
-        "option_d": "$$ \\frac{v^2}{2g} + z $$",
+        "option_a": "$$ R = \\frac{A_1\\epsilon_1}{1 + \\epsilon_1} $$",
+        "option_b": "$$ R = \\frac{1 - \\epsilon_1}{A_1\\epsilon_1} $$",
+        "option_c": "$$ R = \\frac{A_1\\epsilon_1}{1 - \\epsilon_1} $$",  
+        "option_d": "$$ R = \\frac{1 + \\epsilon_1}{A_1\\epsilon_1} $$",
+        "correct_option": "b"
+    },
+    {
+        "question": "For two parallel plates equivalent radiative resistance is given by",
+        "qid": 3,
+        "option_a": "$$ R = \\frac{1}{\\epsilon_1} + \\frac{1}{\\epsilon_2} + 1 $$",
+        "option_b": "$$ R = \\frac{1}{\\epsilon_1} - \\frac{1}{\\epsilon_2} - 1 $$",
+        "option_c": "$$ R = \\frac{1}{\\epsilon_1} - \\frac{1}{\\epsilon_2} + 1 $$",
+        "option_d": "$$ R = \\frac{1}{\\epsilon_1} + \\frac{1}{\\epsilon_2} - 1 $$",
+        "correct_option": "d"
+    },
+    {
+        "question": "For two infinitely long concentric cylinder equivalent radiative resistance is given by",
+        "qid": 4,
+        "option_a": "$$ R = \\frac{\\frac{1}{\\epsilon_1} + \\frac{A_1}{A_2}\\left(\\frac{1}{\\epsilon_2} -1\\right)}{A_1} $$",
+        "option_b": "$$ R = \\frac{\\frac{1}{\\epsilon_1} - \\frac{A_1}{A_2}\\left(\\frac{1}{\\epsilon_2} -1\\right)}{A_1} $$",
+        "option_c": "$$ R = \\frac{\\frac{1}{\\epsilon_1} + \\frac{A_1}{A_2}\\left(\\frac{1}{\\epsilon_2} +1\\right)}{A_1} $$",
+        "option_d": "$$ R = \\frac{\\frac{1}{\\epsilon_1} - \\frac{A_1}{A_2}\\left(\\frac{1}{\\epsilon_2} +1\\right)}{A_1} $$",
         "correct_option": "a"
     },
     {
-        "question": "The direction of the flow is dictated by",
-        "qid": 3,
-        "option_a": "Pressure head",
-        "option_b": "Velocity head",
-        "option_c": "Total head",
-        "option_d": "Potential head",
+        "question": "Shape factor of cavity w.r.t. itself is",
+        "qid": 5,
+        "option_a": "$$ F_{11} = 1 - \\frac{A_1}{A_2} $$",
+        "option_b": "$$ F_{11} = 1 + \\frac{A_2}{A_1} $$",
+        "option_c": "$$ F_{11} = 1 - \\frac{A_2}{A_1} $$",
+        "option_d": "$$ F_{11} = 1 + \\frac{A_1}{A_2} $$",
         "correct_option": "c"
+    },
+    {
+        "question": "Radiative resistance with shield is given by",
+        "qid": 6,
+        "option_a": "$$ R_{shield} = R_{without \\ shield} + \\left(\\frac{2}{\\epsilon} - 1\\right)_{per \\ shield} $$",
+        "option_b": "$$ R_{shield} = R_{without \\ shield} - \\left(\\frac{2}{\\epsilon} + 1\\right)_{per \\ shield} $$",
+        "option_c": "$$ R_{shield} = R_{without \\ shield} + \\left(\\frac{2}{\\epsilon} + 1\\right)_{per \\ shield} $$",
+        "option_d": "$$ R_{shield} = R_{without \\ shield} - \\left(\\frac{2}{\\epsilon} - 1\\right)_{per \\ shield} $$",
+        "correct_option": "a"
     }
 ]
